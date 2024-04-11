@@ -27,7 +27,7 @@ Contém os testes unitários para validar o comportamento das funções definida
 1. **Clone este repositório:**
 
     ```bash
-    git clone https://github.com/Dxis/Analise-de-Dados-com-Python.git
+    git clone https://github.com/Dxis/Estudo-OOP-Python-Pytest.git
     ```
 
 2. **Instale as dependências:**
