@@ -16,7 +16,7 @@ Contém as implementações das classes `OperacaoMat` e `Pessoa`, que representa
 
 Demonstra o uso das classes definidas em `main.py` através de exemplos de criação de instâncias, acesso a atributos e chamada de métodos.
 
-![Validacação OOP](img_validacaoOOP.png)
+![Validacação OOP](Screenshot_1.png)
 
 ### test_main.py
 
@@ -51,13 +51,13 @@ pytest test_main.py
 ### Execução Pytest 
 
 #### test session starts
-![test session starts](img_Pyteste001.png)
+![test session starts](Screenshot_2.png)
 
 #### FAILURES
-![FAILURES](img_Pyteste002.png)
+![FAILURES](Screenshot_3.png)
 
 #### short test summary info
-![short test summary info](img_Pyteste003.png)
+![short test summary info](Screenshot_4.png)
 
 
 ## Contribuição
